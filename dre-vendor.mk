@@ -1461,7 +1461,7 @@ PRODUCT_PACKAGES += \
     vendor.qti.hardware.dpmservice@1.0 \
     vendor.qti.hardware.fm@1.0 \
     vendor.qti.hardware.wifidisplaysession@1.0 \
-    vendor.qti.hardware.wifidisplaysession_aidl-V1-ndk \
+    vendor.qti.hardware.wifidisplaysession_aidl-V2-ndk \
     vendor.qti.imsrtpservice@3.0 \
     vendor.qti.imsrtpservice@3.1 \
     libbluetooth_audio_extend_factory_client \
@@ -1687,7 +1687,7 @@ PRODUCT_PACKAGES += \
     xtwifi-inet-agent \
     dpmd \
     tcmd \
-    wfdservice \
+    wfdservice64 \
     android.hardware.drm@1.3-service.widevine \
     vendor.oplus.hardware.biometrics.fingerprint@2.1-service \
     init.oplus.fingerprints \
